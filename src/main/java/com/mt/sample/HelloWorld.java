@@ -9,12 +9,12 @@ import java.util.Date;
 public class HelloWorld {
 
 	public static void main(String[] args) {
-		System.out.println("Hello Senior DevOps Engineers, Welcome to ACADA learning DevOps Master Class. You are sudying Maven Build Tool. !! Today Date is:  " + getLocalCurrentDate());
+		System.out.println("Hello guys!!:  " + getLocalCurrentDate());
 
 	}
 
 	private static Date getLocalCurrentDate() {
-		String m = "ACADA Learning";
+		String m = "Ose & Co";
 		return new Date();
 
 	}
